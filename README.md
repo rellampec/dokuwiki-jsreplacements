@@ -1,1 +1,1 @@
-# dokuwiki_jsplaceholders
+# dokuwiki_jsreplacements
