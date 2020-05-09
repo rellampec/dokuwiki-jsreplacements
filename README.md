@@ -19,5 +19,6 @@ This program is free software; you can redistribute it and/or modify
 it under the terms of the MIT License.
 
 * See the LICENCE file for details
+* Below the license compatibility diagram ([reference](https://en.wikipedia.org/wiki/License_compatibility#Compatibility_of_FOSS_licenses)). The arrows denote a one directional compatibility, therefore better compatibility on the left side than on the right side:
 
 ![License Compatibility](https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png)
