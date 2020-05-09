@@ -1,4 +1,4 @@
-###jsreplacements Plugin for DokuWiki
+### jsreplacements Plugin for DokuWiki
 
 extends JSINFO with style 'placeholders'
 
@@ -19,4 +19,5 @@ This program is free software; you can redistribute it and/or modify
 it under the terms of the MIT License.
 
 * See the LICENCE file for details
-![license_compatibilities](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Floss-license-slide-image.png)
+
+![License Compatibility](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Floss-license-slide-image.png)
