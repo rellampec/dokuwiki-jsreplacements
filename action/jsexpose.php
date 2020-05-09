@@ -44,6 +44,7 @@ class action_plugin_jsreplacements_jsexpose extends DokuWiki_Action_Plugin
       $styleUtil = new \dokuwiki\StyleUtils();
       $styleIni  = $styleUtil->cssStyleini($conf['template']);
       $JSINFO['replacements'] = $styleIni['replacements'];
+      $JSINFO['test'] = "it works!";
     }
 
 }
