@@ -20,4 +20,4 @@ it under the terms of the MIT License.
 
 * See the LICENCE file for details
 
-![License Compatibility](https://en.wikipedia.org/wiki/License_compatibility#/media/File:Floss-license-slide-image.png)
+![License Compatibility](https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png)
