@@ -1,4 +1,4 @@
-### jsreplacements Plugin for DokuWiki
+### JS replacements Plugin for DokuWiki
 
 extends JSINFO with style 'placeholders'
 
