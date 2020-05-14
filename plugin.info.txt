@@ -1,7 +1,7 @@
 base   jsreplacements
 author Oscar Segura Samper
 email  rellampec@gmail.com
-date   2020-05-09
+date   2020-05-10
 name   JS Replacements plugin
 desc   Extends JSINFO with 'replacements' for usage in JS scripts
 url    https://github.com/rellampec/dokuwiki-jsreplacements
